@@ -1,0 +1,6 @@
+local zkqxwgeyrat, mzjhpykquzj = "Xero Hub/key.txt", "52R6H4NG5WW6JIHNU74356NU7H64XSHO67Q7B3OK6TX63C5NRO23U"
+
+if not isfile(zkqxwgeyrat) or readfile(zkqxwgeyrat) ~= mzjhpykquzj then
+    makefolder("Xero Hub")
+    writefile(zkqxwgeyrat, mzjhpykquzj)
+end
