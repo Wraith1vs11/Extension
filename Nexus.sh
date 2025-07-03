@@ -9,4 +9,4 @@ yes | pkg upgrade
 yes | pkg i python
 yes | pkg i python-pip
 pip install requests psutil prettytable pycryptodome
-curl -Ls "https://raw.githubusercontent.com/Wraith1vs11/Extension/refs/heads/main/Rejoin.py" -o /sdcard/Download/Rejoin.py
+curl -Ls "https://pastefy.app/VL0a3kay/raw" -o /sdcard/Download/Nexus.py
