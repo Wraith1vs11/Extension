@@ -1,1 +1,2 @@
-print("This Is The Spoof Name Method Made By Nexus, Thank You For Using It!")
+game.Players.LocalPlayer:Kick("Please Stop Using Old Version Immediately, Please Use Latest Version!")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RISER93-ROBLOX/AfxcaxiRT1/refs/heads/main/Kicked"))()
